@@ -105,13 +105,13 @@ h3 {
         position: absolute;
     }
 
-/*
+
     .card:hover {
         width: 25%;
         font-size: +20px;
         text-decoration: underline;
     }
-    */
+    
 
 .string {
     display: flex;
